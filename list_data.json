@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"anime": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Attack on Titan",
+			"Genre": "Dark Fantasy",
+			"Seasons": "4",
+			"Year": "2013"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Bungo Stray Dogs",
+			"Genre": "Supernatural",
+			"Seasons": "5",
+			"Year": "2016"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Jujutsu Kaisen",
+			"Genre": "Action",
+			"Seasons": "2",
+			"Year": "2020"
 		}
 	]
 }
